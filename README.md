@@ -246,6 +246,7 @@ There are now a few ways to get graphios installed.
 ```
     git clone https://github.com/shawn-sterling/graphios.git
     cd graphios
+    cp graphios.tpl.cfg graphios.cfg
 ```
 
 Then do one of the following three things (depending what you like best):
